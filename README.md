@@ -1,4 +1,4 @@
 Sublime-Text-Themes
 ===================
 
-A bright, colorful theme for Sublime Text.
+A dark theme with bright and colorful fonts for Sublime Text.
